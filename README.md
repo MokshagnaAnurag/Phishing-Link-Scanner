@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your GitHub repository to accompany the Phishing Link Scanner project:
-
----
-
 # Phishing Link Scanner 🔗🛡️
 
 A Python-based **Phishing Link Scanner** that analyzes URLs for suspicious patterns and provides feedback on their safety. It integrates **basic URL checks** with an optional **VirusTotal API** query for deeper threat analysis.
