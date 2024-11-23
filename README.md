@@ -35,7 +35,7 @@ A Python-based **Phishing Link Scanner** that analyzes URLs for suspicious patte
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/MokshagnaAnurag/phishing-link-scanner.git
+https://github.com/MokshagnaAnurag/Phishing-Link-Scanner.git
 cd phishing-link-scanner
 ```
 
@@ -105,21 +105,6 @@ This tool is intended for educational purposes only. Please use it responsibly a
 
 ---
 
-### Screenshots 📸
 
-| **Feature**                | **Screenshot**                          |
-|----------------------------|------------------------------------------|
-| Basic Phishing Check       | ![Basic Check](screenshots/basic-check.png) |
-| VirusTotal Integration     | ![VirusTotal](screenshots/virustotal.png)  |
 
----
 
-## Contact 📬
-
-For questions or feedback, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
-
----
-
-Feel free to replace the placeholders (e.g., `your-username`, `your-email`) with your details. Let me know if you need help setting up the repository!
